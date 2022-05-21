@@ -1,5 +1,5 @@
 = Cookiecutter {subject}
-:subject: subject
+:subject: git
 :gh-user-name: devidw
 :gh-repo-name: cookiecutter-{subject}
 :toc:
