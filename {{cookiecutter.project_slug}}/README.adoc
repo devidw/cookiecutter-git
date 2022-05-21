@@ -27,4 +27,14 @@ toc::[]
 
 == Development
 
-// ...
+=== Conda
+
+[source,zsh]
+----
+conda activate {{ cookiecutter.conda_env_name }}
+----
+
+[source,zsh]
+----
+conda env export > env.yml
+----
