@@ -17,6 +17,13 @@ Boilerplate template to scaffold blazingly fast.
 toc::[]
 
 
+== Features
+
+* Project folder and file structure
+* Empty git repository
+* Empty conda environment
+
+
 == Get started
 
 Follow the below steps to create a new project.

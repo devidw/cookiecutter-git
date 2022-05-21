@@ -1,5 +1,5 @@
 = {{ cookiecutter.project_name }}
-:author: {{ cookiecutter.author }}
+:author: {{ cookiecutter.full_name }}
 :toc:
 :toc-placement!:
 ifdef::env-github[]

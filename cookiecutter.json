@@ -1,7 +1,8 @@
 {
-    "author": "David Wolf",
+    "full_name": "David Wolf",
     "github_username": "devidw",
     "project_name": "",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "project_short_description": ""
+    "project_short_description": "",
+    "conda_env_name": "{{ cookiecutter.github_username }}-{{ cookiecutter.project_slug }}"
 }
