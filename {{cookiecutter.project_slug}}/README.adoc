@@ -1,0 +1,30 @@
+= {{ cookiecutter.project_name }}
+:author: {{ cookiecutter.author }}
+:toc:
+:toc-placement!:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+{{ cookiecutter.project_short_description }}
+
+toc::[]
+
+
+== Installation
+
+// ...
+
+
+== Usage
+
+// ...
+
+
+== Development
+
+// ...
